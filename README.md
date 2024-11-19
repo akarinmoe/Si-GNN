@@ -2,7 +2,7 @@
 
 ## Overview
 
-**This is a repo for Baselines and Benchmarks of Signed Neural Network**
+**This is a repo for Baselines and Benchmarks of Signed Graph Neural Network**
 
 - **LightSGCN is conducted personally [[link]](https://github.com/akarinmoe/LightSGCN)**
 
