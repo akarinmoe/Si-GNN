@@ -11,7 +11,7 @@
 - **Link Sign Prediction Results (AUC, Macro-F1) for Signed Networks** 
 
 $$
-\begin{array}{|c|c|c|c|c|c|}
+\begin{array}{cccccc}
 \hline
 \textbf{Method} & \textbf{Bitcoin-Alpha} & \textbf{Bitcoin-OTC} & \textbf{Wiki-Rfa} & \textbf{Slashdot} & \textbf{Epinions} \\ \hline
 \textbf{SGCN} & \mathbf{(87.4 \pm 0.9, 68.9 \pm 0.9)} & \mathbf{(88.7 \pm 0.7, 73.9 \pm 1.1)} & \mathbf{(84.7 \pm 0.3, 71.6 \pm 0.5)} & \mathbf{(79.6 \pm 0.4, 68.2 \pm 0.5)} & \mathbf{(87.5 \pm 0.5, 79.5 \pm 0.2)} \\ \hline
@@ -32,7 +32,7 @@ $$
 - **Epinions** is a consumer review site with trust and distrust relationships between users.
 
 $$
-\begin{array}{lcccc}
+\begin{array}{cccc}
 \hline
 \textbf{Datasets} & \textbf{Bit.Alpha} & \textbf{Bit.OTC} &\textbf{Wiki-Rfa} & \textbf{Slashdot} & \textbf{Epinions} \\
 \hline
