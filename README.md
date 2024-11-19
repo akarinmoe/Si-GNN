@@ -34,7 +34,7 @@ $$
 - **Epinions** is a consumer review site with trust and distrust relationships between users.
 
 $$
-\begin{array}{cccc}
+\begin{array}{ccccc}
 \hline
 \textbf{Datasets} & \textbf{Bit.Alpha} & \textbf{Bit.OTC} &\textbf{Wiki-Rfa} & \textbf{Slashdot} & \textbf{Epinions} \\
 \hline
