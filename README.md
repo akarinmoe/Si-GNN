@@ -13,7 +13,8 @@
 $$
 \begin{array}{cccccc}
 \hline
-\textbf{Method} & \textbf{Bitcoin-Alpha} & \textbf{Bitcoin-OTC} & \textbf{Wiki-Rfa} & \textbf{Slashdot} & \textbf{Epinions} \\ \hline
+\textbf{Method} & \textbf{Bitcoin-Alpha} & \textbf{Bitcoin-OTC} & \textbf{Wiki-Rfa} & \textbf{Slashdot} & \textbf{Epinions} \\
+\hline
 \textbf{SGCN} & \mathbf{(87.4 \pm 0.9, 68.9 \pm 0.9)} & \mathbf{(88.7 \pm 0.7, 73.9 \pm 1.1)} & \mathbf{(84.7 \pm 0.3, 71.6 \pm 0.5)} & \mathbf{(79.6 \pm 0.4, 68.2 \pm 0.5)} & \mathbf{(87.5 \pm 0.5, 79.5 \pm 0.2)} \\ \hline
 \textbf{SiGAT} & \mathbf{(87.8 \pm 1.2, 67.5 \pm 1.8)} & \mathbf{(88.4 \pm 0.5, 72.5 \pm 0.8)} & \mathbf{(86.4 \pm 0.3, 73.5 \pm 0.6)} & \mathbf{(87.0 \pm 0.5, 74.5 \pm 0.6)} & \mathbf{(92.0 \pm 0.4, 82.5 \pm 0.5)} \\ \hline
 \textbf{SNEA} & \mathbf{(90.5 \pm 1.0, 72.7 \pm 2.9)} & \mathbf{(91.8 \pm 0.4, 78.3 \pm 0.4)} & \mathbf{(88.6 \pm 1.1, 75.7 \pm 2.0)} & \mathbf{(90.5 \pm 0.2, 79.0 \pm 0.2)} & \mathbf{(84.8 \pm 0.1, 86.3 \pm 0.2)} \\ \hline
