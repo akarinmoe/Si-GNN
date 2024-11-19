@@ -30,6 +30,7 @@ $$
 ## Dataset & Benchmark
 
 - **Bitcoin-Alpha** and **Bitcoin-OTC** are two signed graphs extracted from bitcoin trading platforms. Since bitcoin tradings are anonymous, people give trust or not-trust tags to others in order to enhance security.
+- **Wikirfa** is a signed network in which nodes represent Wikipedia members and edges represent votes.
 - **Slashdot** is a technology-related news website where users can create friend or foe relationships with others.
 - **Epinions** is a consumer review site with trust and distrust relationships between users.
 
