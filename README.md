@@ -6,6 +6,12 @@
 
 - **LightSGCN is conducted personally [[link]](https://github.com/akarinmoe/LightSGCN)**
 
+## Hardware
+
+GPU: RTX 3090 with CUDA 11.8 sm_86
+
+CPU: Intel(R) Xeon(R) Gold 5218R CPU @ 2.10GHz
+
 ## Result
 
 - **Link Sign Prediction Results (AUC, Macro-F1) for Signed Networks** 
